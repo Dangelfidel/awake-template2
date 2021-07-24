@@ -61,7 +61,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .navbar-item img {
-  max-height: 2rem;
+  max-height: 3.5rem;
 }
 .site-search-wrapper {
   transform: translateX(5px);
